@@ -1,0 +1,22 @@
+Census report of South-Africa's statistics
+--------------------------------------------------
+Most populated province  : Gauteng
+Least populated province : Northern Cape
+Average area(km2)        : 135,645.78
+Total population         : 60,500,000
+
+---------- Density and GDP per Province Ranking ----------
+Province             Density (people/km2)         GDP per Province
+Gauteng                  880.18                  730,432,000,000.00
+KwaZulu-Natal            121.87                  304,796,000,000.00
+Mpumalanga                61.44                  183,497,400,000.00
+Western Cape              57.16                  442,867,800,000.00
+Limpopo                   46.92                  155,299,800,000.00
+Eastern Cape              39.65                  160,197,000,000.00
+North West                39.09                  138,698,900,000.00
+Free State                22.34                  115,199,600,000.00
+Northern Cape              3.49                   55,799,900,000.00
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2026-04-13 06:22:17
